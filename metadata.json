@@ -1,0 +1,5 @@
+{
+  "name": "CodeMind - AI Snippet Manager",
+  "description": "A smart code snippet manager powered by Gemini AI. Organize your code, get instant explanations, find bugs, and generate optimizations.",
+  "requestFramePermissions": []
+}
