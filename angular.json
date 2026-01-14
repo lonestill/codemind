@@ -21,7 +21,8 @@
           },
           "configurations": {
             "production": {
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "baseHref": "/codemind/"
             },
             "development": {
               "optimization": false,
